@@ -18,13 +18,13 @@
 	url = https://github.com/xz-mirror/xz.git
 [submodule "pcre"]
 	path = native/src/external/pcre
-	url = https://android.googlesource.com/platform/external/pcre
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/pcre
 [submodule "libcxx"]
 	path = native/src/external/libcxx
 	url = https://github.com/topjohnwu/libcxx.git
 [submodule "zlib"]
 	path = native/src/external/zlib
-	url = https://android.googlesource.com/platform/external/zlib
+	url = https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/zlib
 [submodule "parallel-hashmap"]
 	path = native/src/external/parallel-hashmap
 	url = https://github.com/greg7mdp/parallel-hashmap.git
